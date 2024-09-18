@@ -2,7 +2,7 @@
 
 Attack on Titan Tribute Game 2 Cheat Engine Table.
 
-![{4D3EC96F-147A-4AFC-973C-42783E4F2B8A}](https://github.com/user-attachments/assets/6fb02452-78fc-4423-9a70-960670969aae)
+![{31055ED1-5CA5-4E9E-BDF6-EBC20609AFE5}](https://github.com/user-attachments/assets/16dd70a6-6a88-400f-93f1-de14076f5c56)
 
 ## IMPORTANT!
 
@@ -25,24 +25,36 @@ Respect the Game Community - this game lives only because of its community. With
 
 ### Scripts
 
-![{11C25296-7265-4897-910F-734644C35185}](https://github.com/user-attachments/assets/7682ca6f-f65b-4a1e-8d9e-5e12ce65f4cb)
+![{7E4CF869-12E6-4305-A761-6808828D038A}](https://github.com/user-attachments/assets/0bd81231-4df9-4a6e-a006-23af8d26feed)
 
-- [x] Gas usage
-- [x] Weapons usage
-- [x] Specials usage
-- [x] God mode
+- [x] God Mode
+  - [x] Titans immune
+  - [x] Lava immune
+  - [x] Realism impact immune
+- [x] Infinite gas
+- [x] Infinite rounds, ammo, blades durability
+- [x] Specials no cooldown and other tweaks
 - [x] Disable hooks cancelation for ranged weapons
+- [x] Horse tweaks
+  - [x] Instant TP
+  - [x] Custom speed
+  - [x] Custom jump force
+- [x] Server Password Bypass
 
 ### Game Info
 
-![{2E02B071-E022-426D-819E-1C143BA65646}](https://github.com/user-attachments/assets/ffac2367-9ef4-4ef0-8df4-f01d0d50a35a)
+![{AB2AAE29-95B8-463D-BFA2-B762EDE01915}](https://github.com/user-attachments/assets/33ed818f-df61-4ceb-82d4-d0c51670c8c1)
 
+- [x] In Game Manager
 - [x] Human
   - [x] Weapons
   - [x] Specials
   - [x] Stats
   - [ ] Perks
   - [x] Position
+- [ ] Shifter
+- [x] Horse
+- [x] Photon Player
 - [ ] Titans
 - [ ] Server Data
 
