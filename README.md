@@ -2,7 +2,7 @@
 
 Attack on Titan Tribute Game 2 Cheat Engine Table.
 
-![{31055ED1-5CA5-4E9E-BDF6-EBC20609AFE5}](https://github.com/user-attachments/assets/16dd70a6-6a88-400f-93f1-de14076f5c56)
+![{2221E389-22E7-4C87-BCDB-19C6A03C901D}](https://github.com/user-attachments/assets/b345d850-1bf0-46c8-8968-ff1681cf60b8)
 
 ## IMPORTANT!
 
@@ -27,18 +27,25 @@ Respect the Game Community - this game lives only because of its community. With
 
 ![{7E4CF869-12E6-4305-A761-6808828D038A}](https://github.com/user-attachments/assets/0bd81231-4df9-4a6e-a006-23af8d26feed)
 
+- [x] Disable Body Lean for Blades
 - [x] God Mode
   - [x] Titans immune
   - [x] Lava immune
   - [x] Realism impact immune
 - [x] Infinite gas
-- [x] Infinite rounds, ammo, blades durability
+- [x] Weapons tweaks
+  - [x] Infinite rounds, ammo, blades durability
+  - [x] Custom TS explosion radius
 - [x] Specials no cooldown and other tweaks
+  - [x] Force Armored Titan shifter
+  - [x] Custom Carry Distance
 - [x] Disable hooks cancelation for ranged weapons
 - [x] Horse tweaks
   - [x] Instant TP
   - [x] Custom speed
   - [x] Custom jump force
+     
+#### 🎉 PATCHED
 - [x] Server Password Bypass
 
 ### Game Info
